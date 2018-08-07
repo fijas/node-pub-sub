@@ -1,0 +1,15 @@
+{
+  "name": "ventures-socket",
+  "version": "0.0.1",
+  "description": "two-way communication and notification app for ventures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fijas Pocker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
